@@ -3,6 +3,13 @@
 -Institution : Gtech
 -Skills :  Basic Introduction to Data analysis,Microsoft Excel & Advanced Excel ,Power BI, Dashboard preparation & MIS Reports    
 
+## Deloitte Data Analystics Job Simulation on Forage 
+ * Completed a Deloitte job simulation involving data analysis and forensic
+   technology 
+ * Created a data dashboard using Tableau 
+ * Used Excel to classify data and draw business conclusions
+-Skills :Computer Networking, Data Analysis, Data Modeling, Data Structures, Data Visualization Tools, Formal Communication, Log Analysis, Planning, Programming, Python Programming, Software Development, Spreadsheet Skills, Web Security.
+
 ## 2.OneRoadmap – Data Analyst
 
 Successfully completed the OneRoadmap Data Analyst Skill Certification.
