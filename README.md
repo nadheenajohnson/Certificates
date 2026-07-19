@@ -1,7 +1,8 @@
 #  Professional Certificates
 ## 1. GTech - Diploma in Data Analysis
 -Institution : Gtech
--Skills :  Basic Introduction to Data analysis,Microsoft Excel & Advanced Excel ,Power BI, Dashboard preparation & MIS Reports    
+
+-Skills :  Basic Introduction to Data analysis, Microsoft Excel & Advanced Excel , Power BI, Dashboard preparation & MIS Reports    
 
 ## 2.Deloitte Data Analystics Job Simulation on Forage 
  * Completed a Deloitte job simulation involving data analysis and forensic
